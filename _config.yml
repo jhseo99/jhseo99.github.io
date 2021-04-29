@@ -32,7 +32,12 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-
+  sand:      '#D5C6A8'
+  lime:      '#93F8AB'
+  mint:      '#B8FDF3'
+  sky:       '#B2D7E7'
+  lemon:     '#EEF5B6'
+  
 kramdown:
   auto_ids:  false
 
