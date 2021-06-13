@@ -29,14 +29,13 @@ colors:
   white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
-  purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   sand:      '#D5C6A8'
   khaki:     '#B3D3B3'
-  mint:      '#A9F5E1'
+  lemon:     '#E6E49B'
   sky:       '#B2D7E7'
-  lemon:     '#EEF5B6'
+  mint:      '#A8DFD2'
   
 kramdown:
   auto_ids:  false
